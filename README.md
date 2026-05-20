@@ -2,7 +2,7 @@
 
 REST API for **FocusHub** — a team productivity and focus-tracking platform. Built with Django and designed for a modern React/Next.js client, with Firebase for social login and first-party JWT sessions for every API call.
 
-Pair with the frontend: [`focushub-frontend`](../focushub-frontend)
+Pair with the frontend: [focushub-frontend](https://github.com/alizahir23/focushub-frontend)
 
 ---
 
@@ -219,7 +219,7 @@ Planned next (spec already in `docs/api-v1.md`):
 
 ## Related repos
 
-- **Frontend:** Next.js 16, TanStack Query, Zustand, Firebase Web SDK, shadcn/ui — see `focushub-frontend`
+- **Frontend:** [github.com/alizahir23/focushub-frontend](https://github.com/alizahir23/focushub-frontend)
 
 ---
 
